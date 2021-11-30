@@ -1,2 +1,2 @@
 # Crypto_logret_Analyze_ARIMA-part_I-
-Crypto forcasting, and trade strategy testing
+Ethereum's log return forcasting using ARIMA and ARDL model , and trading strategy testing
